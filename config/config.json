@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Team@2801",
+    "database": "dingdongmaster",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Team@2801",
+    "database": "dingdongmaster",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "aariz",
+    "password": "Team@2801",
+    "database": "u580632832_dingdongMaster",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
